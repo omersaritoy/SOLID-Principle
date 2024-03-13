@@ -1,6 +1,6 @@
 ﻿
 
-Rectangle rectangle = new Rectangle { Width = 5, Height = 4 };
+Rectangle rectangle = new Rectangle { Witdh = 5, Heigth = 4 };
 Console.WriteLine("Rectangle Area: " + rectangle.Area());
 
 Square square = new Square { SideLength = 5 };
